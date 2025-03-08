@@ -1,3 +1,4 @@
+console.log("Extension loaded successfully!"); // 拡張機能が読み込まれたか確認
 document.addEventListener('DOMContentLoaded', () => {
   console.log("Extension loaded successfully!"); // 拡張機能が読み込まれたか確認
 
